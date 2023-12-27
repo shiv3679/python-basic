@@ -2,6 +2,15 @@
 
 Welcome to our Python Training Notebook! This guide is not just about learning Python; it's about falling in love with it. Here, we'll show you how Python isn't just a programming language, but a key to unlocking easier, more efficient, and innovative solutions in your daily life and profession. Whether you're a student, a professional, or just curious, this journey will reveal how Python can be a fun and powerful ally in your digital world.
 
+## Access the Notebook
+
+Click the button below to access the interactive Python notebook:
+
+[![Launch Python 101 Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=python101.ipynb)
+
+Just click on the above button to open the notebook in your browser and start interacting with it!
+
+
 ## 1. Embracing Python in Everyday Life
 
 ### Why Python?
