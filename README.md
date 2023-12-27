@@ -20,11 +20,11 @@ Below is a list of our specialized Python notebooks. Each notebook focuses on a 
 
 ### 1. Understanding Conditional Statements in Python
 Learn about `if`, `elif`, and `else` statements and how to use them for decision-making in your programs.
-[![Launch Conditional Statements Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-github-username/your-repo-name/branch-name?filepath=conditional_statements.ipynb)
+[![Launch Conditional Statements Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=conditional_statements.ipynb)
 
 ### 2. Mastering Loops in Python
 Dive into `for` and `while` loops, and understand how to control the flow of your program efficiently.
-[![Launch Loops Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-github-username/your-repo-name/branch-name?filepath=loops.ipynb)
+[![Launch Loops Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=loops.ipynb)
 
 <!-- ### 3. Data Structures in Python
 Explore Python's built-in data structures like lists, tuples, sets, and dictionaries.
