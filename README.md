@@ -52,7 +52,7 @@ We've made our Python training notebook interactive! This means you can run code
 ### How to Access and Use
 
 1. **Access the Notebook:**
-   - The notebook is hosted on [Binder] (https://mybinder.org/v2/gh/shiv3679/python-basic/HEAD?labpath=python101.ipynb).
+   - The notebook is hosted on [Binder] (https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=python101.ipynb).
    - Click on the link to open the notebook in your browser.
 
 2. **Interact with the Notebook:**
