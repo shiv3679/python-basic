@@ -44,3 +44,25 @@ Join us in this adventure and discover how Python can make your life easier, you
 
 Ready to start? Let's dive into the world of Python!
 
+
+## Interactive Python Notebook
+
+We've made our Python training notebook interactive! This means you can run code, experiment with changes, and see the results in real time, right in your web browser. No need to install anything on your computer.
+
+### How to Access and Use
+
+1. **Access the Notebook:**
+   - The notebook is hosted on [Binder] (https://mybinder.org/v2/gh/shiv3679/python-basic/HEAD?labpath=python101.ipynb).
+   - Click on the link to open the notebook in your browser.
+
+2. **Interact with the Notebook:**
+   - You can run any code cell by clicking on it and pressing `Shift + Enter`.
+   - Feel free to modify the code and run it again to see what happens.
+   - If you want to save your changes, you'll need to make a copy of the notebook.
+
+3. **Experiment and Learn:**
+   - This interactive notebook is a playground for your Python experiments. Test out new ideas and see the results instantly!
+
+Enjoy the hands-on learning experience!
+
+
