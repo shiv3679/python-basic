@@ -26,11 +26,24 @@ Learn about `if`, `elif`, and `else` statements and how to use them for decision
 Dive into `for` and `while` loops, and understand how to control the flow of your program efficiently.
 [![Launch Loops Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=loops.ipynb)
 
-<!-- ### 3. Data Structures in Python
-Explore Python's built-in data structures like lists, tuples, sets, and dictionaries.
-[![Launch Data Structures Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/your-github-username/your-repo-name/branch-name?filepath=path-to-data-structures-notebook)
+### 3. Exploring Data Structures in Python
+Discover how to use Python's built-in data structures like lists, tuples, sets, and dictionaries for effective data management.
+[![Launch Data Structures Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=data_structures.ipynb)
 
-(Continue adding other notebooks similarly...) -->
+### 4. Mastering Functions in Python
+Understand how to define and use functions in Python for writing cleaner and more efficient code.
+[![Launch Functions Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=functions.ipynb)
+
+### 5. Utilizing Modules and Libraries in Python
+Learn about Python's extensive collection of modules and libraries to enhance your programming capabilities in various fields.
+[![Launch Modules and Libraries Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=modules_and_libraries.ipynb)
+
+### 6. Python 101: Introduction to Python
+Get started with Python programming by learning the basics in this introductory notebook.
+[![Launch Python 101 Notebook](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shiv3679/python-basic/main?labpath=python101.ipynb)
+
+Each of these notebooks is designed to provide an interactive and comprehensive learning experience. Whether you're a beginner or looking to expand your Python skills, these resources offer valuable insights and practical examples to enhance your programming journey.
+
 
 ## How to Use These Notebooks
 
